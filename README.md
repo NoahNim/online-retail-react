@@ -2,12 +2,12 @@
 
 ## Author(s)
 
-  * Jane Doe
+  * Noah Medoff
 
 ## Install
 
 ```
-  git clone https://github.com/[github-username]/online-retail-react.git
+  git clone https://github.com/noahnim/online-retail-react.git
   cd online-retail-react
   npm install
 ```
@@ -42,6 +42,3 @@
 **React Project Created using @xamdes/project-generator**
 **Used Command: npx -p @xamdes/project-generator -c 'create-react-[mac/win] online-retail-react'**
 **Latest Project Generator Notes can be found at https://www.npmjs.com/package/@xamdes/project-generator**
-
-
-
